@@ -5,8 +5,8 @@ Hello! My name is Julia Saltzman (she/her/hers). I’m a PhD student in Biology 
 I'm based in the Macdonald and Searcy Labs and affiliated with the Shark Research and Conservation Program and Field School. I will use acoustic and satellite telemetry, biologging, and ecological modeling to study predator behavior, energetics, and habitat use, across gradients of disturbance. In addition to research, I’m passionate about applying science to conservation policy. As the Operations and Development Manager at the Everglades Law Center, I contribute to initiatives that protect Florida’s natural habitats and wildlife.
 
 ### 🌐 Learn More
-🔗 juliasaltzmanscience.com
-📍 Macdonald & Searcy Labs, University of Miami
+www.juliasaltzmanscience.com
+juliasaltzman@miami.edu 
 
 <!--
 **juliasaltzman1/juliasaltzman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
